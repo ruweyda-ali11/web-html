@@ -1,0 +1,134 @@
+.fasmenu{
+    background-color: rgb(186, 161, 211);
+    padding: 10px;
+    top: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    list-style: none;
+    text-decoration: none;
+}
+.fasmenu a{
+text-decoration: none;
+color: aliceblue;
+}
+.main1{
+    color: black;
+    background-color: whitesmoke; 
+}
+.li{
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    margin-left: 240px;
+    display: flex;
+   color: red;
+    
+ 
+}
+.li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+#btn1{
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 15px;
+    background-color: brown;
+}
+.xariiq{
+    background-color: rgb(85, 85, 224);
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+.falar{
+    margin: 5px;
+    color: green;
+}
+/* .ddd{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.grap{
+    font-size: 20px;
+    color: gray;
+} */
+#entere{
+    margin-top: 8px;
+
+padding: 10px;
+padding-right: 60px;
+
+}
+#btn0{
+    margin-top: 8px;
+    background-color: brown;
+    padding: 10px;
+}
+ 
+.boxx1{
+box-shadow: 0 0 10px 2px rgb(203, 200, 200);
+width: 300px;
+height: 200px;
+padding: 30px;
+margin-right: 50px;
+}
+#bb{
+    background-color: brown;
+    border-color:brown;
+    border-radius: 5px;
+    position: absolute;
+   
+}
+.mainbox{
+    display: flex;
+  
+  margin: 40px;
+}
+#dis{
+    background-color: brown;
+    color: white;
+    border-color: brown;
+    padding: 10px;
+}
+.boxx2{
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    margin-right: 50px;   
+}
+#hoos{
+    margin-top: 300px;
+}
+#show{
+    background-color: brown;
+    border-color: brown;
+    color: white;
+    padding: 10px;
+    border-radius:5px;
+}
+.revie{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 15px;
+}
+.qorr{
+    color: rgba(3, 29, 23, 0.63)
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#bottn{
+    color: rgb(252, 253, 253);
+    margin-top: 20px;
+    padding: 8px;
+    background:rgb(82, 136, 82);
+    font-size: 20px;
+}
